@@ -1,0 +1,4 @@
+__pycache__/
+media/models/*.bin
+media/models/*.npy
+media/models/*.tsv
